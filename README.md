@@ -1,10 +1,10 @@
-# 🗳️ Political Sentiment Analysis
+# Political Sentiment Analysis
 
 A machine learning project to classify political sentiment from tweets related to the 2024 US Presidential Election candidates — across party lines and engagement metrics.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes tweet-level sentiment (positive, neutral, negative) towards five 2024 US presidential candidates using classical ML classification models. The pipeline covers end-to-end data preprocessing, feature engineering, and model comparison.
 
@@ -17,15 +17,15 @@ This project analyzes tweet-level sentiment (positive, neutral, negative) toward
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-📦 political-sentiment-analysis  
- ┣ 📓 Political_Sentiment_Analysis.ipynb — Full ML pipeline notebook  
- ┗ 📄 Political_Sentiment_Analysis.csv — Dataset (500 tweets)
+political-sentiment-analysis  
+ ┣ Political_Sentiment_Analysis.ipynb — Full ML pipeline notebook  
+ ┗ Political_Sentiment_Analysis.csv — Dataset (500 tweets)
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Feature | Description |
 |---|---|
@@ -44,7 +44,7 @@ This project analyzes tweet-level sentiment (positive, neutral, negative) toward
 
 ---
 
-## 🔧 ML Pipeline
+## ML Pipeline
 
 ### 1. Data Preprocessing
 - Null value imputation (mean for numerical, mode for categorical)
@@ -74,7 +74,7 @@ This project analyzes tweet-level sentiment (positive, neutral, negative) toward
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Jaishri Vijayakumar**  
 B.Sc. Data Science | PSGR Krishnammal College for Women, Coimbatore  
